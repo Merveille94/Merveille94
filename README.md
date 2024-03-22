@@ -49,6 +49,8 @@ src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-t
 
 
 
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/Merveille_Manuele"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 <img src="/banner.png" width="100%">
 #FYI: Thanks and Gratitude goes to <a href="">Lordwill1</a> to whom this was inspired by 😁👍 ... Thanks Bro !

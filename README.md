@@ -1,4 +1,4 @@
-👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+Emanuele+Merveille+here%2C;web+developer+passionate+about+code;Enough+chat+let's+work.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=👋Hey+there%2C+Emanuele+Merveille+here%2C;web+developer+passionate+about+code;Enough+chat+let's+work.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌟 About Me:<br>Self-taught web developer transitioning to software engineering through ALX. Physics grad with a passion for nuclear engineering and materials science.<br><br>💻 What I Do:<br>I build user-friendly web apps and love solving coding challenges.<br><br>🔬 Future Aspirations:<br>Looking to leverage my skills in software engineering to contribute to advancements in nuclear engineering and materials science.<br><br>🚀 Let's Connect:<br>Open to collaborations and tech discussions. Feel free to reach out!

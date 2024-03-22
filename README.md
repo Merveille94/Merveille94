@@ -49,4 +49,6 @@ src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-t
 
 
 
-#FYI: Thanks and Gratitude goes to <a href="">Lordwill1</a> to whom this was inspired by :) ... Thanks Bro !
+
+<img src="/banner.png" width="100%">
+#FYI: Thanks and Gratitude goes to <a href="">Lordwill1</a> to whom this was inspired by 😁👍 ... Thanks Bro !

@@ -10,7 +10,7 @@ Hi, I'm Emanuele Merveille. <img src="https://raw.githubusercontent.com/MartinHe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### About Me:
-I'm a Software Engineering student at ALX, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, my background in Physics serves as a solid foundation, and I'm a nuclear engineering and materials science enthusiast.
+I'm a Software Engineering student at ALX, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, I am a Physics graduate passionate about nuclear engineering and materials science.
 
 ### Goals:
 In addition to honing my software engineering skills, I aspire to contribute to advancements in scientific research, nuclear engineering and materials science. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.

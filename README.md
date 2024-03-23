@@ -50,6 +50,10 @@ src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-t
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Merveille94&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 
 # 📊 GitHub Stats:
 

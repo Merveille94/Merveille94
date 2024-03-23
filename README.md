@@ -50,9 +50,8 @@ src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-t
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
-# 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merveille94&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Merveille94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 

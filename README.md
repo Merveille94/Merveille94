@@ -36,15 +36,9 @@ src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-t
 
 ![](https://github-profile-trophy.vercel.app/?username=Merveille94&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Merveille94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/Merveille_Manuele"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Merveille94&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <img src="/banner.png" width="100%">
 #FYI: Thanks and Gratitude goes to <a href="">Lordwill1</a> to whom this was inspired by 😁👍 ... Thanks Bro !

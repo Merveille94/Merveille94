@@ -1,42 +1,135 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Emanuele+Merveille;M.Sc.+Engineering+Physics+Student;Wind+Energy+%26+Scientific+Computing;CFD+%7C+Simulation+%7C+Data+Analysis;I+Learn+by+Building+and+Simulating" alt="Typing introduction">
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<h1 align="center">Emanuele Merveille Guehi 👋</h1>
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Emanuele+Merveille;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+<p align="center">
+  <strong>Engineering Physics • Wind Energy • Scientific Computing</strong>
+</p>
 
-<h1 align="center">
-Hi, I'm Emanuele Merveille. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="https://www.linkedin.com/in/emanuelemerveille/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Merveille94">
+    <img src="https://img.shields.io/github/followers/Merveille94?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Merveille94&style=for-the-badge&color=blue&labelColor=000000" alt="Profile views">
+</p>
 
-### About Me:
-I'm a Physics Graduate and Software Engineer, driven by a passion for coding and a thirst for knowledge. My journey in software development has been fueled by hands-on experience, as I firmly believe in learning by doing. Additionally, I am a Physics graduate passionate about nuclear engineering and materials science.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 
-### Goals:
-In addition to honing my software engineering skills, I aspire to contribute to advancements in scientific research, nuclear engineering and materials science. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
+## About Me
 
-![](https://komarev.com/ghpvc/?username=Merveille94&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/Merveille94" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Merveille94?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/Manuele_Merv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Manuele_Merv?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://#/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233503235762)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I am an **M.Sc. Engineering Physics student at the University of Oldenburg**, specialising in renewable energy and wind-energy physics.
 
-- #### 🔭 I’m currently working on improving my coding skills.
-- #### 👯 I’m open to collaborating on Software Engineering projects.
+My background combines physics, software engineering and numerical modelling. I am particularly interested in using programming, simulation and experimental data to understand and improve wind turbines and energy systems.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+My current interests include:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+- Wind-turbine design and aeroelastic simulation
+- Computational fluid dynamics
+- Rotor aerodynamics and structural dynamics
+- Wind-farm and wake modelling
+- Experimental testing and measurement-data analysis
+- Scientific software development
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I enjoy learning by building, testing and improving practical solutions.
 
-## 🏆 GitHub Trophies
+## Current Focus
 
-![](https://github-profile-trophy.vercel.app/?username=Merveille94&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+- Developing and analysing wind-turbine models
+- Improving my CFD and finite-element modelling skills
+- Working with Python and MATLAB for scientific computing
+- Learning more about aeroelasticity and fluid–structure interaction
+- Seeking a **compulsory internship or student research position** in wind-energy modelling, simulation or experimental research
 
+## Selected Technical Work
 
-[![](https://visitcount.itsvg.in/api?id=Merveille94&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="/banner.png" width="100%">
-#FYI: Thanks and Gratitude goes to <a href="">Lordwill1</a> to whom this was inspired by 😁👍 ... Thanks Bro !
+### 3.5 MW Wind-Turbine Design
+
+Designed and evaluated a conceptual 3.5 MW onshore wind turbine using:
+
+- QBlade and blade-element momentum theory
+- Airfoil and pitch-angle analysis
+- TurbSim wind-field generation
+- OpenFAST aeroelastic simulations
+- Tower dynamics and eigenfrequency calculations
+- Python-based result processing and visualisation
+
+### Computational Fluid Dynamics
+
+- Worked with OpenFOAM and ParaView
+- Simulated and analysed compressible-flow cases using `rhoCentralFoam`
+- Processed and visualised numerical results
+- Studied mesh configuration, boundary conditions and solver behaviour
+
+### Wind-Energy Data Analysis
+
+- Analysed high-frequency wind-measurement data
+- Applied averaging, statistical and turbulence-analysis methods
+- Used Python libraries including NumPy, pandas, SciPy and Matplotlib
+- Worked with wake-modelling concepts and the FOXES framework
+
+### Engineering Design
+
+- Used SolidWorks and MATLAB during the design of a departmental liquid-nitrogen plant
+- Developed experience in technical modelling, component design and engineering documentation
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
+
+## Technical Skills
+
+### Wind Energy and Simulation
+
+`QBlade` `OpenFAST` `TurbSim` `FOXES` `OpenFOAM` `ParaView` `SolidWorks`
+
+### Scientific Computing
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### Python Libraries
+
+`NumPy` `pandas` `Matplotlib` `SciPy` `xarray` `Windrose`
+
+### Software Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Collaboration
+
+I am open to collaborating on projects involving:
+
+- Wind-energy modelling and simulation
+- Scientific Python development
+- CFD and engineering-data analysis
+- Renewable-energy research
+- Open-source scientific software
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Merveille94&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <em>Building practical solutions at the intersection of physics, wind energy and software.</em>
+</p>

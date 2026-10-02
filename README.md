@@ -28,7 +28,7 @@
 
 I am an **M.Sc. Engineering Physics student at the University of Oldenburg**, specialising in renewable energy and wind-energy physics.
 
-My background combines physics, software engineering and numerical modelling. I am particularly interested in using programming, simulation and experimental data to understand and improve wind turbines and energy systems.
+My background combines Nuclear physics, software engineering and numerical modelling. I am particularly interested in using programming, simulation and experimental data to understand and improve wind turbines and energy systems.
 
 My current interests include:
 

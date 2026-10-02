@@ -47,7 +47,7 @@ I enjoy learning by building, testing and improving practical solutions.
 - Improving my CFD and finite-element modelling skills
 - Working with Python and MATLAB for scientific computing
 - Learning more about aeroelasticity and fluid–structure interaction
-- Seeking a **compulsory internship or student research position** in wind-energy modelling, simulation or experimental research
+- Seeking an **internship or student research position** in wind-energy modelling, simulation or experimental research
 
 ## Selected Technical Work
 
